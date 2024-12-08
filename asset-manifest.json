@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d7cb57c1.css",
+    "main.js": "/static/js/main.0449bc5e.js",
+    "static/js/453.b6bdbee0.chunk.js": "/static/js/453.b6bdbee0.chunk.js",
+    "static/media/kky_img_cropped.png": "/static/media/kky_img_cropped.cfb92cdd76e24e6c3d24.png",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.d7cb57c1.css.map": "/static/css/main.d7cb57c1.css.map",
+    "main.0449bc5e.js.map": "/static/js/main.0449bc5e.js.map",
+    "453.b6bdbee0.chunk.js.map": "/static/js/453.b6bdbee0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d7cb57c1.css",
+    "static/js/main.0449bc5e.js"
+  ]
+}
